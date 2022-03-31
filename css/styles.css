@@ -68,5 +68,36 @@ img {
   height: 64px;
 }
 
+@media (min-width: 766px) {
+  .introduction {
+    width: 40%;
+    margin: 0 auto 4rem auto;
+  }
+
+  .introduction > h1 {
+    font-size: 2rem;
+  }
+
+  .fourCardContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .twoCardContainer {
+    width: 33%;
+  }
+
+  #supervisor {
+    margin-right: 1rem;
+    width: 33%;
+  }
+
+  #calculator {
+    margin-left: 1rem;
+    width: 33%;
+  }
+}
+
 
 
