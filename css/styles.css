@@ -89,12 +89,12 @@ img {
   }
 
   #supervisor {
-    margin-right: 1rem;
+    margin-right: 1.5rem;
     width: 33%;
   }
 
   #calculator {
-    margin-left: 1rem;
+    margin-left: 1.5rem;
     width: 33%;
   }
 }
