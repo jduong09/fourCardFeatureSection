@@ -54,7 +54,7 @@ h1 > strong {
   border-top-color: hsl(212, 86%, 64%);
 }
 
-.card > h3 {
+.card > h2 {
   font-weight: 400;
   font-size: 1.2rem;
   margin-bottom: .5rem;
